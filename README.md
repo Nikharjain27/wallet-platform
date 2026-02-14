@@ -1,5 +1,5 @@
 #Digital wallet Platfom (Microservices)
-Production-grade fib=ntech wllet system built using:
+Production-grade fintech wllet system built using:
 - Java
 - Spring Boot
 - Microservices
